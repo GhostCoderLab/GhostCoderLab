@@ -97,7 +97,7 @@ Additionally, I am part of an online community where I freely utilize my skills 
   <img src="https://streak-stats.demolab.com/?user=GhostCoderLab&theme=tokyonight" />
 </p>
 
-![Rebellion-CI's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostCoderLab&theme=tokyo-night&custom_title=Activity%20Graph)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GhostCoderLab&theme=tokyo-night&custom_title=Activity%20Graph)
 
 </details>
 
